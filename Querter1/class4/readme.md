@@ -21,7 +21,7 @@ print(f"Hello {name}")       # F-String
 Lists store multiple values in order.
 
 ```python
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry", "mango"]
 ```
 
 * **index:** `fruits.index("banana")` → `1`
