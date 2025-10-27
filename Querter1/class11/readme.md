@@ -20,7 +20,7 @@ file.close()
 ```
 
 **:link: Resources:** 
-[Python Code](https://github.com/Ramla-Eman/PIAIC_Classes/tree/main/Querter1/class11)
+[Python Code](https://github.com/Ramla-Eman/PIAIC_Classes/tree/main/Querter1/class11)\n
 [Python Preperation repo from panaversity](https://github.com/panaversity/learn-modern-ai-python/tree/main/00_python_colab)
 
 Python Exam preperation topics from repo :arrow_up: :
